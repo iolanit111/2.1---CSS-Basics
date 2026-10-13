@@ -1,5 +1,5 @@
-# 2-1-CSS-Basics <br>
-
+<html>
+    <head>
 ## Video 
 [CSS Basics](https://youtu.be/dC34rfY8Eyk)<-- Make sure to watch this video first
 
